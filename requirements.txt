@@ -1,9 +1,15 @@
+# Standard libraries
 numpy
 pandas
+
+# Specialized DL libraries
 torch
 torchaudio==2.5.1
 evaluate==0.4.3
 sentence-transformers
 nltk==3.9.1
+
+# Hugging Face datasets
+datasets 
 
 
